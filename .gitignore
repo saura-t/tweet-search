@@ -1,0 +1,7 @@
+page1
+.gitattributes
+*.xml
+*.iml
+*.pyc
+images/page1.JPG
+images/page2.JPG
